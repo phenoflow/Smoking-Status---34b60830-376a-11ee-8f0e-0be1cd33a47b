@@ -1,0 +1,24 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/smoking-status-tobacco---primary.py
+inputModule3:
+  class: File
+  path: python/smoking-status-nonsmoker---primary.py
+inputModule4:
+  class: File
+  path: python/smoking-status-exsmoker---primary.py
+inputModule5:
+  class: File
+  path: python/smoking-status---primary.py
+inputModule6:
+  class: File
+  path: python/smoking-status-administration---primary.py
+inputModule7:
+  class: File
+  path: python/smoking-status-tobacco---secondary.py
+inputModule8:
+  class: File
+  path: python/output-cases.py
